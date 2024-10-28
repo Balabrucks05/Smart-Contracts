@@ -1,0 +1,59 @@
+{
+	"compiler": {
+		"version": "0.8.20+commit.a1b79de6"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "makesound",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"Contracts/OOPS/Polymorphism/Runtime.sol": "Dog"
+		},
+		"evmVersion": "shanghai",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"Contracts/OOPS/Polymorphism/Runtime.sol": {
+			"keccak256": "0xabb5af4460b577ed13f471a7ca4a0eb62904c08bd07637ee5153d0fb95eec4d0",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://3f68ce9d384bc2e2b6fa96c62bb5d6de404a985dfbe0fd7da6e7a0627fb0e777",
+				"dweb:/ipfs/QmTGjZjeeC8nbPemF2p65Ud2UAgxX3aEFCdUrXF4Wv2MPG"
+			]
+		}
+	},
+	"version": 1
+}
